@@ -45,7 +45,7 @@ class Main extends Component {
 
         setTimeout(()=>{
             alert("Click on clear or C before next operation")
-        },5000)
+        },2500)
 
         return answer
     }
